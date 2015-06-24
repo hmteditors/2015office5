@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
@@ -18,9 +18,9 @@
   </teiHeader>
   <text>
     <body>
-      <div n="12">
-        <l n="1"> ὣς ὃ μὲν ἐν κλισίῃσι Μενοιτίου ἄλκιμος υἱὸς </l>
-      </div>
+        <div n="19"> 
+        <l n="51">αὐτὰρ ὃ δεύτατος ἦλθεν ἄναξ ἀνδρῶν<persName n="urn:cite:hmt:pers.pers22">Ἀγαμέμνων </persName></l>
+        </div>
     </body>
   </text>
 </TEI>
