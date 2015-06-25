@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<<<<<<< HEAD
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Iliad</title>
-        <editor>YOUR NAME EHERE</editor>
+        <editor>Tazuko van Berkel</editor>
+        <editor>Michael Kelley</editor>
+        <editor>Thom van Leuveren</editor>
 
       </titleStmt>
       <publicationStmt>
@@ -19,32 +20,32 @@
   </teiHeader>
   <text>
     <body>
-        <div n="19"> 
+        <div n="19">
         <l n="51">αὐτὰρ ὃ δεύτατος ἦλθεν ἄναξ ἀνδρῶν<persName n="urn:cite:hmt:pers.pers22">Ἀγαμέμνων </persName></l>
          <l n="52">ἕλκος ἔχων· καὶ γὰρ <add place="superlinear">τὸν </add>ἐνι κρατερῇ ὑσμίνῃ</l>
-        <l n="53">οῦτα <persName n="urn:cite:pers.pers.496">Κόων</persName>Ἀντηνορίδης χαλκήρεϊ δουρί·</l>
-        <l n="54">αὐτὰρ ἐπει δὴ πάντες ἀολλίσθησαν <rs type="ethnic" n="urn:cite:place.place96">Ἀχαιοὶ</rs>.</l>
-        <l n="55">τοῖσι δ` ἀνιστάμενοσ μετέφη πόδας ὠκὺς <persName n="urn:cite:pers.pers1">Ἀχιλλεύς</persName>·</l>
-        <l n="56"><persName n="urn:cite:hmt:pers.pers22">Ἀτρείδη</persName> ῆ ἄρ τι τόδ᾽ ἀμφοτέροισιν ἄρειον</l>
+        <l n="53">οῦτα <persName n="urn:cite:hmt:pers.pers.496">Κόων Ἀντηνορίδης</persName> χαλκήρεϊ δουρί·</l>
+        <l n="54">αὐτὰρ ἐπει δὴ πάντες ἀολλίσθησαν <rs type="ethnic" n="urn:cite:hmt:place.place96">Ἀχαιοὶ</rs>.</l>
+        <l n="55">τοῖσι δ' ἀνιστάμενοσ μετέφη πόδας ὠκὺς <persName n="urn:cite:hmt:pers.pers1">Ἀχιλλεύς</persName>·</l>
+        <l n="56"><persName n="urn:cite:hmt:pers.pers22">Ἀτρείδη</persName> ῆ ἄρ τι τόδ' ἀμφοτέροισιν ἄρειον</l>
         <l n="57">ἔπλετο. σοὶ καὶ ἐμοὶ· ὅ τε νῶΐ περ ἀχνυμένω κῆρ.</l>
         <l n="58">θυμοβόρῳ ἔριδι μενεήναμεν εἵνεκα κούρης.</l>
-        <l n="59">τὴν ὄφελ᾽ ἐν νήεσσι κατακτάμεν Ἄρτεμις Ϊῷ</l>
-        <l n="60">ἤματι τῷ· ὅτ᾽ ἐγὼν ἑλόμην Λυρνησσὸν ὀλέσσας.</l>
-          <l n="61">τώ κ᾽ οὐ τόσσοι Ἀχαιοὶ ὀδὰξ ἕλον ἄσπετον οὖδας</l>
-        <l n="62">δυσμενέων ὑπὸ χερσὶν ἐμεῦ ἀπομηνίσαντος.</l>
-        <l n="63">Ἕκτορι μὲν καὶ Τρωσὶ τὸ κέρδιον: αὐτὰρ Ἀχαιοὺς</l>
-        <l n="64">δηρὸν ἐμῆς καὶ σῆς ἔριδος μνήσεσθαι ὀΐω.</l>
-        <l n="65">ἀλλὰ τὰ μὲν προτετύχθαι ἐάσομεν ἀχνύμενοί περ</l>
-        <l n="66">θυμὸν ἐνὶ στήθεσσι φίλον δαμάσαντες ἀνάγκῃ:</l>
-        <l n="67">νῦν δ᾽ ἤτοι μὲν ἐγὼ παύω χόλον, οὐδέ τί με χρὴ</l>
-        <l n="68">ἀσκελέως αἰεὶ μενεαινέμεν: ἀλλ᾽ ἄγε θᾶσσον</l>
-        <l n="69">ὄτρυνον πόλεμον δὲ κάρη κομόωντας Ἀχαιούς,</l>
-        <l n="70">ὄφρ᾽ ἔτι καὶ Τρώων πειρήσομαι ἀντίον ἐλθὼν</l>
-        <l n="71">αἴ κ᾽ ἐθέλωσ᾽ ἐπὶ νηυσὶν ἰαύειν: ἀλλά τιν᾽ οἴω</l>
-        <l n="72">ἀσπασίως αὐτῶν γόνυ κάμψειν, ὅς κε φύγῃσι</l>
-        <l n="73">δηΐου ἐκ πολέμοιο ὑπ᾽ ἔγχεος ἡμετέροιο.</l>
-        <l n="74"> ὣς ἔφαθ᾽, οἳ δ᾽ ἐχάρησαν ἐϋκνήμιδες Ἀχαιοὶ </l>
-        <l n="75">μῆνιν ἀπειπόντος μεγαθύμου Πηλεΐωνος.</l>
+        <l n="59">τὴν ὄφελ' ἐν νήεσσι κατακτάμεν <persName n="urn:cite:hmt:pers.pers39">Ἄρτεμις</persName> ϊῷ</l>
+        <l n="60">ἤματι τῷ· ὅτ' ἐγὼν ἑλόμην <placeName n="urn:cite:hmt:place.place59">Λυρνησσὸν</placeName> ὀλέσσας.</l>
+          <l n="61">τώ κ' οὐ τόσσοι <rs type="ethnic" n="urn:cite:hmt:place.place96">Ἀχαιοὶ</rs> ὀδὰξ ἕλον ἄσπετον οῦδας</l>
+        <l n="62">δυσμενέων ὑπο χερσὶν. ἐμεῦ ἀπομηνίσαντος·</l>
+        <l n="63"><persName n="urn:cite:hmt:pers.pers172">Ἕκτορι</persName> μὲν καὶ <rs type="ethnic" n="urn:cite:hmt:place.place6">Τρωσὶ</rs>. τὸ. κέρδιον. αὐτὰρ <rs type="ethnic" n="urn:cite:hmt:place.place96">Ἀχαιοὺς</rs>.</l>
+        <l n="64">δηρὸν ἐμῆς καὶ σῆς ἔριδος μνήσεσθαι ὀΐω·</l>
+        <l n="65">ἀλλὰ τὰ μὲν προτετύχθαι ἐάσομεν ἀχνύμενοί περ.</l>
+        <l n="66">θυμὸν ἐνι στήθεσσι φίλον δαμάσαντες ἀνάγκῃ·</l>
+        <l n="67">νῦν δ' ἤτοι μὲν ἐγὼ παύω χόλον· οὐδέ τι με χρὴ</l>
+        <l n="68">ἀσκελέως αἰεὶ μενεαινέμεν· ἀλλ' άγε θᾶσσον</l>
+        <l n="69">ὄτρυνον πόλεμον δὲ κάρη κομόωντας <rs type="ethnic" n="urn:cite:hmt:place.place96">Ἀχαιούς</rs>.</l>
+        <l n="70">ὄφρ' ἔτι καὶ <rs type="ethnic" n="urn:cite:hmt:place.place6">Τρώων</rs> πειρήσομαι ἀντίον ἐλθὼν.</l>
+        <l n="71">αί κ' ἐθέλωσ' ἐπι νηυσὶν ϊαύειν· ἀλλά τιν' οἴω</l>
+        <l n="72">ἀσπασίως αὐτῶν γόνυ κάμψειν. ὅς κε φύγῃσι</l>
+        <l n="73">φεύγων ἐκ πολέμοιο. ὑπ' έγχεος ἡμετέροιο·</l>
+        <l n="74">ὡς ἔφαθ'. οἱ δ' ἐχάρησαν ἐϋκνήμιδες <rs type="ethnic" n="urn:cite:hmt:place.place96">Ἀχαιοὶ</rs></l>
+        <l n="75">μῆνιν ἀπειπόντος μεγαθύμου <persName n="urn:cite:hmt:pers.pers.1" >Πηλείωνος</persName>·</l>
         
         </div>
     </body>
