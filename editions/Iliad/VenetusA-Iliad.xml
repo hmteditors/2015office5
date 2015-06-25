@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
+<<<<<<< HEAD
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -48,4 +49,28 @@
         </div>
     </body>
   </text>
+=======
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Iliad</title>
+                <editor>YOUR NAME EHERE</editor>
+                
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished edition of the Venetus A manuscript for the Homer Multitext project</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Edited directly from photography of the manuscript</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div n="19"> 
+                <l n="51">αὐτὰρ ὃ δεύτατος ἦλθεν ἄναξ ἀνδρῶν<persName n="urn:cite:hmt:pers.pers22">Ἀγαμέμνων </persName></l>
+            </div>
+        </body>
+    </text>
+>>>>>>> 4db9bed3f2258805e742dbb48bc46b7416597c28
 </TEI>
