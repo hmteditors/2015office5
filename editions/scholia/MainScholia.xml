@@ -21,7 +21,7 @@
         <group n="19">
             <text n="msA">
                 <body>
-                    <div n="office5_1" type="scholion">
+                    <div n="2015office5_1" type="scholion">
                         <div type="lemma">
                             <p>αὐτὰρ ὃ δεύτατος.</p>
                         </div>
@@ -32,7 +32,7 @@
                             <p>ὅτι δεύτατος ἀπο τοῦ δεύεσθαι ὁ ἔσχατος· τὸ δὲ δεύεσθαι ἐνδεῖν  ἐστι προσυνήχθη δὲ τὸ πλήθος  ὑπ' <persName n="urn:cite:hmt:pers.pers1">Ἀχιλλέως</persName></p>
                         </div>
                     </div>
-                    <div n="5_2" type="scholion">
+                    <div n="2015office5_2" type="scholion">
                         <div type="lemma">
                             <p><persName n="urn:cite:hmt:pers.pers22">Ατρείδη.</persName></p>
                         </div>
@@ -43,7 +43,7 @@
                             <p>ῆ άρ τι. τὸν ῆ σύνδεσμον περισπαστέον ἔστι γὰρ διστακτικὸς της κλητικης ἀνάπαυσιν λαβούσης· εἰσὶ μέντοι οἳ ἐνέκλιναν αὐτὸν καθ' ὑπερβατὸν συντάσσοντες τῷ <q>περ</q> ἵνα τὸ ὅλον τοιοῦτον ῇ ἵνα ηϊ ερώτησις <q><persName n="urn:cite:hmt:pers.pers22">Ἀτρειδη</persName>ἆρά τις κρείσσων ἐκ τῆς ἔριδος ἐγένετο ἡμῖν.</q> ἐν δὲ τῇ <placeName n="urn:cite:hmt:place.place411">Χίᾳ</placeName> <q>ὄνειαρ</q> ἐγέγραπτο ἐν τῇ <placeName n="urn:cite:hmt:place.place28">Μασσαλιωτικῇ</placeName> <q>ἄμεινον</q>.</p>
                         </div>
                     </div>
-                    <div n="5_3" type="scholion">
+                    <div n="2015office5_3" type="scholion">
                         <div type="lemma">
                             <p>δυσμενέων ὑπο <choice><sic>χερσίν</sic><corr>χερσὶν</corr></choice></p>
                         </div>
