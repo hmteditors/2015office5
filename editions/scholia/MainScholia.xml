@@ -53,6 +53,28 @@
                         <div type="comment">
                             <p>ὅτι ἀντι τοῦ ὑπο χειρῶν καὶ ὅτι περισσὴ. ἡ <q>ἀπο</q> <choice><abbr>προθ</abbr><expan>πρόθεσις</expan></choice> ἀντι τοῦ μηνίσαντος Νικίας ἀναστρέφει τὴν πρόθεσιν· οὐκ αναγκαῖον <choice><sic>δὲ</sic><corr>δέ</corr></choice></p>                  
                         </div>
+                        <div n="2015office5_4" type="scholion">
+                            <div type="lemma">
+                                <p>ἐμεῦ ἀπομηνίσαντος</p>
+                            </div>
+                            <div type="ref">
+                                <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.62</p>
+                            </div>
+                            <div type="comment">
+                                <p>ὁ μὲν <persName n="urn:cite:hmt:pers.pers485">Ἀσκαλωνίτης</persName> ὡς <q>ἀποφοιβήσαντος</q> καὶ οὕτως ἔχει ἡ παράδοσις</p>
+                            </div>
+                            <div n="2015office5_5" type="scholion">
+                                <div type="lemma">
+                                    <p><persName n="urn:cite:hmt:pers.pers172">Ἕκτορι</persName> μὲν καὶ <placeName n="urn:cite:hmt:place.place6">Τρωσὶ</placeName> τὸ.</p>
+                                </div>
+                                <div type="ref">
+                                    <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.63</p>
+                                </div>
+                                <div type="comment">
+                                    <p>ἀντωνυμία μὲν ὁμολογουμένως τὸ <q>τό</q> μόριον οὐ μὴν διασταλτέον κατ’ αὐτό, ὡς ἔδοξέ τισιν</p>
+                                </div>
+                        </div>
+                    </div>
                     </div>
                 </body>
             </text>
