@@ -71,8 +71,18 @@
                                     <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.63</p>
                                 </div>
                                 <div type="comment">
-                                    <p>ἀντωνυμία μὲν ὁμολογουμένως τὸ <q>τό</q> μόριον οὐ μὴν διασταλτέον κατ' αὐτό, ὡς ἔδοξέ τισιν</p>
+                                    <p>ἀντωνυμία μὲν ὁμολογουμένως τὸ <q>τό</q> μόριον οὐ μὴν διασταλτέον καταυτὸ ὡς ἔδοξε τισίν</p>
                                 </div>
+                                <div n="2015office5_6" type="scholion">
+                                    <div type="lemma">
+                                        <p>αί κ' εθέλωσ'</p>
+                                    </div>
+                                    <div type="ref">
+                                        <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.71</p>
+                                    </div>
+                                    <div type="comment">
+                                        <p>ὅτι τὸ ϊαύειν οὐκ έστι νῦν κοιμᾶσθαι ἀλλ επαυλίζεσθαι <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:9.325</ref><q>ὡσ καὶ ἐγὼ πολλὰσ μὲν ἀΰπνουσ νύκτας ΐαυον</q></cit>. ὅτι ἀντι τοῦ <q>αί κ' ἐθέλοιεν</q></p>
+                           </div>
                         </div>
                     </div>
                     </div>
