@@ -14,8 +14,8 @@
 
 *THOM*
 Some context: Achilles confronts Agamemnon
-* paraphrase until 59
-* exact translation of line 63: "For Hector and the Trojans *this* is better"
+* paraphrase until 59: Achilles is about to let go of his wrath, but first adresses Agamemnon and raises the question whether their conflict over one girl was worth all the losses.
+* exact translation of line 63: "For Hector and the Trojans this was better"
 
 ---
 ##The fifth main scholion
@@ -76,7 +76,7 @@ Erbse says: we have no idea what they were thinking.
 * further directions: a systematic inquiry into how periods are used, how grammatical terms such as διαστέλλω are used.
 
 ---
-links
+
 [Iliad19line63]: http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/VenA/VA252VN-0754.tif&RGN=0.482,0.4545,0.311,0.027&WID=9000&CVT=JPEG
 
 [MainScholion5]:http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/VenA/VA252VN-0754.tif&RGN=0.233,0.5402,0.209,0.0601&WID=9000&CVT=JPEG
