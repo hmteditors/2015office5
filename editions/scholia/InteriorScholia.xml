@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <?xml-stylesheet type="text/css" href="../css/tei-scholia.css"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Venetus A Interior Scholia</title>
-                <author>YOUR NAME HERE</author>
+                <author>Tazuko van Berkel</author>
+                <author>Michael Kelley</author>
+                <author>Thom van Leuveren</author>
             </titleStmt>
             <publicationStmt>
                 <p>Unpublished</p>
@@ -17,18 +18,18 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <group n="12">
+        <group n="19">
             <text n="msAint">
                 <body>
-                    <div n="urn:cts:greekLit:tlg5026.msAint.hmt:12.1" type="scholion">
+                    <div n="2015office5_1" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.??</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.68</p>
                         </div>
                         <div type="comment">
-                            <p></p>
+                            <p>ὅτι νῦν ἀντὶ τοῦ <q>θυμοῦσθαι</q></p>
                         </div>
                     </div>
                 </body>
