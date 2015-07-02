@@ -1,7 +1,9 @@
 ---
+
 #Performance or punctuation?#
 
 *Tazuko van Berkel, Michael Kelley, Thom van Leuveren*
+
 ---
 ##Book 19, line 63: peculiar use of punctuation
 image main text line 63
