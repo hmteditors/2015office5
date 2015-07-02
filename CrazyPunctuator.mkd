@@ -6,7 +6,7 @@
 
 ---
 ##Book 19, line 63: peculiar use of punctuation
-[link to an image][Iliad19line63]
+![main text][Iliad19line63]
 
 *MICHAEL*
 * lavish punctuation after each word.
@@ -19,7 +19,7 @@ Some context: Achilles confronts Agamemnon
 
 ---
 ##The fifth main scholion
-[link to an image][MainScholion5]
+![scholion5][MainScholion5]
 *MICHAEL*
 * transcription: ἕκτορι μὲν καὶ Τρωσὶ τὸ, ἀντωνυμία μὲν ὁμολογουμένως τὸ τό μόριον οὐ μὴν διασταλτέον καταυτὸ ὡς ἔδοξε τισίν
 * translation: "to Hector and the Trojans this", the particle "τό" is a pronoun (ἀντωνυμία) by consensus. However, one should not pause after each as some have thought.
@@ -29,7 +29,7 @@ Some context: Achilles confronts Agamemnon
 ---
 ##Research Questions
 
-[link to an image][MainScholion5]
+![scholion5][MainScholion5]
 
 *MICHAEL*
 2 questions that emerge from this scholion:
@@ -42,8 +42,8 @@ Erbse says: we have no idea what they were thinking.
 ---
 ##A close parallel
 
-[link to an image][Scholion1line396a]
-[link to an image][Scholion1line396b]
+![close parallela][Scholion1line396a]
+![close parallelb][Scholion1line396b]
 
 *THOM*
 
@@ -57,7 +57,7 @@ Erbse says: we have no idea what they were thinking.
 ---
 ##Back to our scholion
 
-[link to an image][MainScholion5]
+![scholion5][MainScholion5]
 
 *THOM*
 
